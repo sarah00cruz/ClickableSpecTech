@@ -1,0 +1,7 @@
+ID,Name,PNGFilename,Text,x,y,visible
+0,blue,assets/blueClip.png,blue,width/2,height-350,yes
+1,green,assets/greenClip.png,green,width/2,height-250,yes
+2,pink,assets/pinkClip.png,pink,width/2,height-150,yes
+3,sparkle,assets/sparkleClip.png,sparkle,width-400,height-350,yes
+4,stripe,assets/stripeClip.png,stripe,width-400,height-250,yes
+5,switch,assets/switchClip.png,switch,width-400,height-150,yes
